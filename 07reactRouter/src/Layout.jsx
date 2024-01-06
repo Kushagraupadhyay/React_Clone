@@ -1,7 +1,7 @@
 import React from 'react'
 import {Outlet} from 'react-router-dom' //In React Router, the Outlet component is used as a placeholder where child routes will be rendered. It's part of the declarative routing system provided by React Router.
-import Header from './components/header/header'
-import Footer from './components/footer/Footer'
+import Header from './components/header'
+import Footer from './components/footer'
 
 
 
